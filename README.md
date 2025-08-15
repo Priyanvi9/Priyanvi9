@@ -16,10 +16,10 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA), with a passion
 
 ## 🌟 Projects I'm Proud Of
 
-- [**Cloud Assignment Repo**](#)  
+- (https://github.com/Priyanvi9/Cloud_Assignment_Priyanvi)(#)  
   _A comprehensive collection of cloud-related assignments, notes, and resources. Cloudy with a chance of A+!_
 
-- [**DSA Java Repo**](#)  
+- (https://github.com/Priyanvi9/DSA-JAVA)(#)  
   _All-in-one hub for DSA notes, questions, and Java code—my go-to resource for cracking interviews and acing exams!_
 
 ---
@@ -50,7 +50,7 @@ When I’m not debugging or solving algorithms, you’ll find me exploring:
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)][(YOUR-LINKEDIN-URL-HERE)](https://www.linkedin.com/in/priyanvi-gupta-993590322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/priyanvi-gupta-993590322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
