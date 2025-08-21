@@ -1,4 +1,4 @@
-# Namaste\! I'm Priyanvi. 👋
+# Namaste! I'm Priyanvi. 👋
 
 ```java
 /**
@@ -6,7 +6,7 @@
  * @version 1.0
  * @since Today
  */
-```
+````
 
 ### **BCA Student | DevOps Sorceress | Future Architect of Awesome**
 
@@ -40,25 +40,27 @@ I'm a full-time student by day, and a part-time code conjurer by night. My curre
 
 I'm on a quest to crack the Civil Services Examination and join the ranks of the **IPS**. Why? Because I believe in using my problem-solving skills to serve the nation, whether it's optimizing code or optimizing governance. My courage in facing a tough Mains question is matched only by my determination to squash a particularly stubborn bug.
 
-“The only thing necessary for the triumph of evil is for good men to do nothing.”
-— Edmund Burke
-(Translation: The only way a bug wins is if you don't commit to fixing it.)
+-----
 
-“I am not an Athenian or a Greek, but a citizen of the world.”
-— Socrates
-(Translation: I'm not just a developer, but a contributor to the global community.)
+> “The only thing necessary for the triumph of evil is for good men to do nothing.”
+> — *Edmund Burke*
+> *(Translation: The only way a bug wins is if you don't commit to fixing it.)*
 
-“It is our duty to pay for our liberty with our own blood.”
-— Netaji Subhas Chandra Bose
-(Translation: Freedom isn't free. Neither is well-tested code.)
+> “I am not an Athenian or a Greek, but a citizen of the world.”
+> — *Socrates*
+> *(Translation: I'm not just a developer, but a contributor to the global community.)*
 
-"The truth is, nothing is free. In this world, you have to pay a price for every change."
-— Chanakya
-(Translation: Every major feature comes with a code debt. Pay it, or it will crash later.)
+> “It is our duty to pay for our liberty with our own blood.”
+> — *Netaji Subhas Chandra Bose*
+> *(Translation: Freedom isn't free. Neither is well-tested code.)*
+
+> "The truth is, nothing is free. In this world, you have to pay a price for every change."
+> — *Chanakya*
+> *(Translation: Every major feature comes with a code debt. Pay it, or it will crash later.)*
 
 -----
 
-### **😂 Bonus Features (`cat ~/fun_facts.txt`)**
+### **😂 My `debug.log` (A.K.A. Fun Facts)**
 
 ```java
 // My relationship with coffee:
@@ -66,7 +68,9 @@ while (isCoding()) {
     drink(coffee);
     writeCode();
 }
+```
 
+```java
 // Recursion explained to my pet:
 if (problemSolved) {
     wagTail();
@@ -74,7 +78,9 @@ if (problemSolved) {
     explainRecursion();
     wagTail(); // Still doesn't get it.
 }
+```
 
+```java
 // My superpower:
 attempts++;
 if (codeCompiles()) {
@@ -95,3 +101,6 @@ if (codeCompiles()) {
 -----
 
 `// Thanks for visiting my digital abode! Let's collaborate, innovate, and maybe even share a few laughs over some well-placed code comments.`
+
+```
+```
