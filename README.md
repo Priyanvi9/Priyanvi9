@@ -1,72 +1,40 @@
-# Hi there, I'm Priyanvi! 👋
+Namaste! I'm Priyanvi. 👋
+BCA Student | DevOps Evangelist | Future-Proofing the Nation
 
-🎓 **Student | Tech Enthusiast | Civil Services Aspirant**
+I'm a full-time student and part-time bug hunter, currently pursuing a dual-boot journey: mastering the art of building scalable tech solutions while preparing to serve the nation. My code is clean, my queries are optimized, and my ultimate goal is to find the perfect algorithm for a better society.
 
-I'm currently pursuing a Bachelor of Computer Applications (BCA), with a passion for all things tech—especially **Data Structures & Algorithms (DSA)** using **Java**. I love exploring DevOps fundamentals and am comfortable with **HTML, CSS, Git**, along with classic languages like **C** and **C++**.
+🚀 My Current git status
+On branch master: I’m currently deep into Data Structures & Algorithms (DSA) with Java. My mission? To write code so efficient, Big-O notation becomes a whisper, not a shout.
 
----
+Committing "DevOps": I'm learning to automate everything. My goal is to build CI/CD pipelines so seamless, they'd make a tea-making robot jealous. After all, why do it manually when you can script it once and for all?
 
-## 🚀 What I'm Learning
+Staging "C & C++": I’m fluent in the OGs of programming. They taught me the true meaning of a segmentation fault and how to find that one missing semicolon that can ruin your day. Pointers still keep me on my toes, but hey, who needs coffee when you have memory addresses to manage?
 
-- **DSA with Java:** Because “Array” is not just a word, it’s a way of life!
-- **DevOps Basics:** Automating all the things (except making tea ☕).
-- **C & C++:** Because old is gold (and pointers keep me on my toes).
-- **Debugging:** My superpower is finding that one missing semicolon... eventually.
+Pushing "Web": I'm comfortable with HTML and CSS, and I use Git for everything. My life mantra is commit early, push often, because you can always git revert a bad decision... or a questionable hairstyle.
 
----
+🌟 My Public Repos (ls -a)
+Cloud_Assignment_Priyanvi
 
-## 🌟 Projects I'm Proud Of
+A curated collection of cloud assignments and notes. It's my personal serverless function—always ready, always scalable, and always returns a 200 OK.
 
-- [Cloud Assignment Priyanvi](https://github.com/Priyanvi9/Cloud_Assignment_Priyanvi)  
-  _A comprehensive collection of cloud-related assignments, notes, and resources. Cloudy with a chance of A+!_
+DSA-JAVA
 
-- [DSA-JAVA](https://github.com/Priyanvi9/DSA-JAVA)  
-  _All-in-one hub for DSA notes, questions, and Java code—my go-to resource for cracking interviews and acing exams!_
+My go-to hub for all things DSA. It's where I solve problems, debug logic, and prepare to ace interviews. Consider this repo a well-documented and highly-optimized roadmap to success.
 
----
+🎯 My Ultimate for Loop (for a purpose)
+I’m preparing for the Civil Services Examination to become an IPS officer. My journey is a high-stakes, real-world bug hunt. My courage? To face a tough Mains question with the same confidence I face a tricky segfault error or a broken CI/CD pipeline.
 
-## 🎯 Aspirations
+"It is our duty to pay for our liberty with our own blood." — Netaji Subhas Chandra Bose
+(He probably would've used sudo to gain root access to freedom.)
 
-Preparing for the **Civil Services Examination** for the post of **IPS**—because why not aim for the stars (and serve the nation while at it)?
+😂 Fun Facts (README.md)
+My relationship with coffee is an endless loop: while (true) { coffee.sip(); code.write(); }
 
-> “It is our duty to pay for our liberty with our own blood. The freedom that we shall win through our sacrifice and exertions, we shall be able to preserve with our own strength.”  
-> — *Netaji Subhas Chandra Bose*  
-> *(Courage for IPS, perseverance for code!)*
+Can explain recursion to my pet. She still doesn't get it, but her tail wags in a fractal pattern.
 
-> “Courage is knowing what not to fear.”  
-> — *Plato*  
-> *(Like facing a tough code bug or a tricky Mains question!)*
+My superpower is finding that one missing semicolon... eventually.
 
-> “No matter how hard the past, you can always begin again.”  
-> — *Gautam Buddha*  
-> *(Whether it’s a failed test case or a new attempt at UPSC!)*
+I've used version control for my life decisions: git init on a new project, and git blame when things go wrong.
 
----
-
-## 🌍 Beyond Tech
-
-When I’m not debugging or solving algorithms, you’ll find me exploring:
-
-- History & Evolution (time traveler at heart!)
-- Geography (I’m the human version of Google Maps)
-- Political Science & International Relations (future diplomat? Maybe!)
-- Mastering the art of balancing code, coffee, and curiosity.
-
----
-
-## 😄 Fun Facts
-
-- Can explain recursion to my pet (she still doesn’t get it 🐶)
-- Coffee + Code = Happiness
-- I put the “pro” in procrastination (but always meet my deadlines!)
-- I use version control for my life decisions (commit early, push often).
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanvi-gupta-993590322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
-
-_Thanks for stopping by! Let’s connect, collaborate, and maybe swap some coding memes (or life hacks for UPSC)!_
+📫 Connect with Me
+Thanks for stopping by. Let's push some ideas and pull each other up!
