@@ -96,7 +96,7 @@ if (codeCompiles()) {
 
 ### **📬 Let's Connect (`ping -c 3 linkedin.com`)**
 
-[](https://www.linkedin.com/in/priyanvi-gupta-993590322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[(www.linkedin.com/in/priyanvi-gupta-993590322)}
 
 -----
 
